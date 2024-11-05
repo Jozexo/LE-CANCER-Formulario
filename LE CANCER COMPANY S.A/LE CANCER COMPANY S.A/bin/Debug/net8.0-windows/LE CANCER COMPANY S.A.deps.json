@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LE CANCER COMPANY S.A/1.0.0": {
+        "runtime": {
+          "LE CANCER COMPANY S.A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LE CANCER COMPANY S.A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
